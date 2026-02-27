@@ -1,4 +1,4 @@
-package com.lpu.AnnotationsApproach.ModrenXML;
+package com.lpu.JavaBasedConfiguration;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

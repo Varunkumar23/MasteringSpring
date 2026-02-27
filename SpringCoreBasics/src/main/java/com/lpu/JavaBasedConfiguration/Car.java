@@ -1,6 +1,5 @@
-package com.lpu.AnnotationsApproach.ModrenXML;
+package com.lpu.JavaBasedConfiguration;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component

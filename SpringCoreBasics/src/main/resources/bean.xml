@@ -5,7 +5,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <!--This is xml style of dealing with beans but in this current era we have moved to classbased approach whre we use the annotations-->
+    <!--This is xml style of dealing with beans but in this current era we have moved to class based approach where we use the annotations-->
     <bean id="emp" class="com.lpu.XMLApproach.Employee">
         <property name="id" value="1"></property>
         <property name="name" value="Varun"></property>
